@@ -1,0 +1,30 @@
+.homefondo {
+  height: 100%;
+  width: 100%;
+  background-color: #dad4c6;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contactofondo {
+  height: 100%;
+  width: 100%;
+  background-color: #dad4c6;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ul {
+  list-style-type: none;
+}
+ul li a {
+  text-decoration: none;
+}
+
+.white {
+  color: rgba(255, 255, 255, 0.884);
+}
+
+.blue {
+  color: rgb(3, 3, 94);
+}
